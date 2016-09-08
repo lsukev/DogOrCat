@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DogOrCat</string>
+    <string name="title_canine">Are you afraid of canines?</string>
+    <string name="title_comfortable_felines">In a scale of 1 to 10, how comfortable are you around felines?</string>
+    <string name="title_cutest">Which ones are the cutest?</string>
+    <string name="checkbox_dog">Dog</string>
+    <string name="checkbox_cat">Cat</string>
+    <string name="checkbox_parrot">Parrot</string>
+    <string name="title_drool">Are you okay with creatures that drool?</string>
+    <string name="button_title">Show Results</string>
+    <string name="title">You are a.....</string>
+    <string name="result_text">dog or cat</string>
+</resources>
